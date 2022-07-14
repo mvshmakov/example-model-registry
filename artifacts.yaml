@@ -12,3 +12,8 @@ my-pickle-model:
   path: models/my-pickle-model.pkl
   type: model
   virtual: false
+sdvalnvlasdvn:
+  labels:
+  - ''
+  path: s3://dssdvsdvasdv
+  type: model
