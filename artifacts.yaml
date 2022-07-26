@@ -25,3 +25,8 @@ test-model:
   - ''
   path: test-model
   type: model
+test-model-956:
+  labels:
+  - test-label
+  path: test-model-956
+  type: model
